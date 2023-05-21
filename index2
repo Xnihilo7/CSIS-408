@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>My Information</title>
+
+</head>
+<body>
+    <img src="path/to/your/image.jpg" alt="Me :D">
+    <h4>Me :D</h4>
+    <h1>CSIS408: DevSecOps and Mobile Programming (B01)</h1>
+    <p>Hello there!
+        My name is Jonathan Cifonie and I am in my Senior year of my Bachlores degree 
+        in Infomration Technology: Web Development and Mobile Programming. I am finishing up 
+        this summer with two summer classes and upon completion I am looking formward to getting
+        a job with real world experience!
+    </p>
+    <h2>Three Facts About Me</h2>
+    <p>
+        <ul>
+            <li>I enjoy working out</li>
+            <li>I am a private pilot</li>
+            <li>My dream car is a Merceades G36</li>
+        </ul>
+    </p>
+
+    <table>
+        <tr>
+            <th>Phone Number</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Favorite Bible Verse</th>
+        </tr>
+        <tr>
+            <td>815-618-0540</td>
+            <td>Freeport</td>
+            <td>IL</td>
+            <td>Psalm 56:4</td>
+        </tr>
+    </table>
+    <h2>Things I want to learn</h2>
+    <ol>
+        <li>I would like to obtain better familiarity/proficiency with the coding languages I have learned</li>
+        <li>I would like to understrand how to better format pages for mobile interfaces</li>
+        <li>I would like to get a better grasp on modern app/website desing and functionality</li>
+        <li>I would like to continue to cultivate my passion for coding and see where I can grow the most!</li>
+    </ol>
+</body>
+</html>
